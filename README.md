@@ -183,7 +183,6 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 ![WhatsApp Image 2025-11-24 at 14 08 26_8312ea4c](https://github.com/user-attachments/assets/eb0b5f5f-7a7b-4828-937a-7ca4a7be40e1)
-<img width="929" height="657" alt="image" src="https://github.com/user-attachments/assets/528f3a41-5cf9-4278-9cb0-73c24566b53f" />
 
 
 
@@ -193,7 +192,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-<img width="1145" height="807" alt="Screenshot 2025-10-10 123955" src="https://github.com/user-attachments/assets/bf18b533-9ebe-461d-9f16-d81d064de860" />
+<img width="929" height="657" alt="image" src="https://github.com/user-attachments/assets/528f3a41-5cf9-4278-9cb0-73c24566b53f" />
+
 
 
  
